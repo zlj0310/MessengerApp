@@ -1,1 +1,3 @@
 # MessengerApp
+
+该react native项目是通过websocket跟facebook messenger进行通信聊天的，目前还在完善中......
